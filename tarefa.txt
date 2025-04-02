@@ -1,0 +1,5 @@
+Instruções
+Procurar o drive de conexão entre python X oracle
+métodos de querys entre a model e oracle
+refatorar a model “user_model_oracle”
+e incluir no .env as configurações do oracle
