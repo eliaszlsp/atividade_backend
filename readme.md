@@ -90,6 +90,4 @@ Este projeto faz parte da avaliação da disciplina e demonstra a capacidade de:
 - Gerenciar configurações sensíveis com variáveis de ambiente
 - Estruturar um projeto web com organização adequada
 
-## Contato
 
-[Adicione informações de contato aqui]
